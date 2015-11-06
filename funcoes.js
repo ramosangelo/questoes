@@ -1,0 +1,2 @@
+"alteracao funcoes.js"
+
